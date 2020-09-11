@@ -1,0 +1,10 @@
+.main{
+    background: var(--main-color);
+    color: var(--text-color);
+}
+.text{
+    color: var(--main-color);
+}
+button{
+    border: 1px solid var(--main-color);
+}
